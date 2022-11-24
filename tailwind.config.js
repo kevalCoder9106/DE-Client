@@ -8,7 +8,8 @@ module.exports = {
       'cabin': ['Cabin'],
       'babe': ['Bebas Neue'],
       'work': ['Work Sans'],
-      'abril': ['Abril Fatface']
+      'abril': ['Abril Fatface'],
+      'poppins': ['Poppins']
     },
     extend: {
       colors: {
